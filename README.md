@@ -1,4 +1,4 @@
-# CIT-paper
+# AMeI-paper
 
 example calculations for the paper - First Derivatives of Fuzzy Surfaces (J. Caha, J. Dvorský)
 
