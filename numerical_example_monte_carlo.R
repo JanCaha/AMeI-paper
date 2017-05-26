@@ -6,7 +6,7 @@ source("prerequisites.R", encoding = "UTF-8")
 ##################################################
 
 # number of simulations to use
-# high number (over 1 000 000) can take very long to calculate
+# high number of simulations (over 1 000 000) can take rather long time to calculate
 numberOfSimulation = 10000
 
 # define the size of a grid
