@@ -1,5 +1,5 @@
 # prerequsities - install and load packages
-source("prerequisites.R", encoding = "UTF-8")
+source("scripts/prerequisites.R", encoding = "UTF-8")
 
 ##################################################
 # calculation of the example from the article
